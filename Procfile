@@ -1,3 +1,3 @@
-worker: python3 -m Luna
-web: python3 -m Luna
+worker: python3 -m luna
+web: python3 -m luna
 ps:scale worker=1
